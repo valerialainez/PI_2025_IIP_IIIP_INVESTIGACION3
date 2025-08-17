@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "PI_2025_II_IIIP_INVESTIGACION3\\Cliente.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "Servidor\\Servidor.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

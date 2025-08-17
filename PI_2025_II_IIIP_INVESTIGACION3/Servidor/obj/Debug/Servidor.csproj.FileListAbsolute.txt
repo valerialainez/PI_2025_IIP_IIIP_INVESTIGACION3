@@ -1,0 +1,10 @@
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\bin\Debug\Servidor.exe
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\bin\Debug\Servidor.pdb
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\obj\Debug\PI_2025_II_IIIP_INVESTIGACION3.frmCliente.resources
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\obj\Debug\Servidor.exe
+C:\Users\valer\source\repos\PI_2025_II_IIIP_INVESTIGACION3\Servidor\obj\Debug\Servidor.pdb
